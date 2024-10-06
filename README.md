@@ -2,6 +2,8 @@
 
 ## Hi there 👋 I'm Do Dang Huy, or you can call me Jickay!
 
+I'm currently trying to become a backend web developer using C# and .NET. I will try my best to achieve this goal.
+
 
 ## Some infos about me:
 
